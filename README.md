@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 About Me<br><br>I'm a Backend Developer passionate about building secure, scalable, and maintainable web applications using Node.js, Express.js, and TypeScript. I work with SQL and NoSQL databases and enjoy designing RESTful APIs and real-time applications.<br><br>* 🔭 Currently building backend projects using Node.js and Express.js.<br>* 👯 Open to collaborating on backend and full-stack development projects.<br>* 🌱 Currently learning about database design, system design, and React.<br>* 💬 Ask me about Node.js, Express.js, REST APIs, authentication, authorization, and databases.<br>* ⚡ Fun fact: I enjoy exploring new technologies and turning ideas into practical projects.<br>
+# 👋,I'm Kareem Hassan
+## Backend Developer passionate about building secure, scalable, and maintainable web applications using Node.js, Express.js, and TypeScript. I work with SQL and NoSQL databases and enjoy designing RESTful APIs and real-time applications.<br><br>* 🔭 Currently building backend projects using Node.js and Express.js.<br>* 👯 Open to collaborating on backend and full-stack development projects.<br>* 🌱 Currently learning about database design, system design, and React.<br>* 💬 Ask me about Node.js, Express.js, REST APIs, authentication, authorization, and databases.<br>* ⚡ Fun fact: I enjoy exploring new technologies and turning ideas into practical projects.<br>
 
 
 # 💻 Tech Stack:
